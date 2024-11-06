@@ -1,0 +1,12 @@
+#
+ - start.spring.io can be start.yourorg.io
+ - git clone runnability 
+ - consistent formatting
+ - frameworks optimized for your organization
+ - docker and testcontainers via serviceconnection
+ - leyden, appcds, crac, ..
+ - graalvm native images 
+ - starters 
+ - virtuous threads
+ - modulith
+ - ai 
